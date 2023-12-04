@@ -41,8 +41,3 @@ S3 Bucket: Stores logs securely.
 
 Cleanup
 To destroy the deployed resources, run terraform destroy.
-
-Contributing
-Adhere to best practices in Terraform and AWS. Document significant changes for clarity.
-
-
